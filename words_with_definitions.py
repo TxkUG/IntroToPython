@@ -69,4 +69,4 @@ if num_chances > 0:
 else:
     print('Sorry!', end='')
 
-print(' The word was {}'.format(random_word['word'])))
+print(' The word was {}'.format(random_word['word']))
